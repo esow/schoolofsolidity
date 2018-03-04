@@ -1,0 +1,9 @@
+{
+	"autoimport.filesToScan": "**/*.{js,jsx,ts,tsx} **/node_modules",
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"eslint.autoFixOnSave": true
+}

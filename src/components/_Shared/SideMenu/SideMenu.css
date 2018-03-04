@@ -1,0 +1,24 @@
+div.ui.vertical.menu.side-menu {
+	border-radius: 0;
+	border-top: none;
+	width: 250px !important;
+	margin: 0;
+	top: 50px;
+	left: 10%;
+	height: calc(100vh - 50px);
+}
+
+div.ui.vertical.menu.side-menu > div > .header-link {
+	padding: 3px;
+	padding-left: 0;
+	margin-bottom: 5px;
+
+	color: black;
+	text-decoration: none;
+}
+div.ui.vertical.menu.side-menu > div > .header-link:hover {
+	padding: 3px;
+	padding-left: 0;
+	margin-bottom: 5px;	
+	background-color: rgba(0, 0, 0, 0.05);
+}

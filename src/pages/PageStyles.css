@@ -1,0 +1,27 @@
+.page-layout {
+	display: flex;
+	flex-direction: row;
+	padding-left: calc(10% + 250px);
+	padding-right: calc(10% + 250px);
+}
+.page-content {
+	background-color: #fff;
+	padding: 25px;
+	margin: 10px;
+	margin-top:60px;
+	border-radius: 5px;
+	min-width: 1000px;
+	flex-grow: 1;
+}
+.test1 {
+	height: 600px;
+	border: 1px solid black;
+}
+.Basics {
+	height: 600px;
+	border: 1px solid black;
+}
+.test3 {
+	height: 600px;
+	border: 1px solid black;
+}
